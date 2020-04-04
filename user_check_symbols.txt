@@ -1,0 +1,4 @@
+MSFT
+AAPL
+AMZN
+WMT
